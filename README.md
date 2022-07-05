@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Design](./design/desktop-design-completed.jpg)
-![Mobile Design](./design/mobile-design.jpg)
+![Desktop Design](./design/desktop-preview.jpg)
+![Mobile Design](./design/mobile-design-anually.jpg)
 
 ### Links
 
@@ -42,7 +42,6 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - Flexbox
-- JavaScript
 
 ### Layout
 
