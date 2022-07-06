@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshots
 
 ![Desktop Design](./design/desktop-preview.jpg)
-![Mobile Design](./design/mobile-design-anually.jpg)
+![Mobile Design](./design/mobile-design-annually.jpg)
 
 ### Links
 
