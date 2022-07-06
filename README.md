@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-b90pz-qRSy)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-kGMcxU9m8c)
 - Live Site URL: [Github](https://kinjames.github.io/pricing-component-toggle/)
 
 ## My process
