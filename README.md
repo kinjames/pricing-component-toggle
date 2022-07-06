@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-b90pz-qRSy)
-- Live Site URL: [Github](https://kinjames.github.io/tip-calculator/)
+- Live Site URL: [Github](https://kinjames.github.io/pricing-component-toggle/)
 
 ## My process
 
